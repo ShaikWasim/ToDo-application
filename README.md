@@ -64,11 +64,17 @@ src/
 
 
 How to Use the App
+
 Open the application.
+
 Add a new task by typing in the input field and clicking "Add Todo."
+
 Mark tasks as completed or update them.
+
 Delete tasks if no longer needed.
+
 Use filters to view all tasks, only completed tasks, or only pending tasks.
+
 Tech Stack
 React: For building the user interface.
 Redux Toolkit: For state management.
