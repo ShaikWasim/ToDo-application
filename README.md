@@ -31,6 +31,7 @@ The app will open in your default browser at http://localhost:3000.
 
 
 src/
+
 ├── app/                # Redux store configuration
 
 ├── components/         # Reusable UI components
