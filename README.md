@@ -64,6 +64,7 @@ src/
 
 
 
+
 How to Use the App
 
 Open the application.
@@ -75,6 +76,7 @@ Mark tasks as completed or update them.
 Delete tasks if no longer needed.
 
 Use filters to view all tasks, only completed tasks, or only pending tasks.
+
 
 
 
