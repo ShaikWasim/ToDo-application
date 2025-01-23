@@ -32,19 +32,33 @@ The app will open in your default browser at http://localhost:3000.
 
 src/
 ├── app/                # Redux store configuration
+
 ├── components/         # Reusable UI components
+
 │   ├── AppContent.js
+
 │   ├── AppHeader.js
+
 │   ├── Button.js
+
 │   ├── CheckButton.js
+
 │   ├── PageTitle.js
+
 │   ├── TodoItem.js
+
 │   ├── TodoModel.js
+
 ├── slices/             # Redux slices
+
 │   └── todoSlice.js
+
 ├── styles/             # Global and component-specific styles
+
 ├── App.js              # Main app component
+
 ├── index.js            # Entry point for React
+
 
 
 
