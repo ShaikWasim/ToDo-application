@@ -5,6 +5,7 @@
 Todo App
 A simple and efficient Todo application built with React, Redux Toolkit, and localStorage for managing tasks effectively.
 
+
 Features
 Add, update, and delete todos.
 Persist tasks using localStorage.
@@ -14,17 +15,16 @@ Modern and responsive user interface.
 
 Getting Started
 1. Clone the Repository
-
 git clone https://github.com/your-username/your-repo-name.git
-2. Navigate to the Project Directory
 
+2. Navigate to the Project Directory
 cd your-repo-name
+
 3. Install Dependencies
     Make sure you have Node.js installed, then run:
-
 npm install
-4. Start the Development Server
 
+4. Start the Development Server
 npm start
 The app will open in your default browser at http://localhost:3000.
 
